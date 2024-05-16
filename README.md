@@ -1,6 +1,8 @@
 # gnm
 Fitting Generalized Nonlinear Models Use gnm With (In) R Software
 
+https://www.youtube.com/watch?v=ImlRGFSxWCM
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
